@@ -1,4 +1,4 @@
-function ServiceName {
+function ProcDetails {
     [CmdletBinding()]
     param (
         [Parameter()]
